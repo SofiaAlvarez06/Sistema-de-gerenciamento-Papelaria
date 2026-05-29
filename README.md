@@ -35,11 +35,22 @@ O projeto segue uma estrutura simples inspirada no padrão MVC:
 
 ---
 
-## 🖼️ Interface do sistema
+
 
 Abaixo está a tela principal do sistema de papelaria:
+## 🖼️ Telas do sistema
 
+### Sistema de papelaria
+![Sistema Papelaria](sistemapapelaria.png)
 
+### Seleção do resultado da pesquisa
+![Seleção Papelaria](seleçãopapelaria.png)
+
+### Soma de todo o estoque da papelaria
+![Soma Papelaria](papelaria soma.png)
+
+### Edição dos produtos
+![Edição](imagem edição.png)
 
 ## 🚀 Como executar o projeto
 1. Abrir o projeto no Eclipse

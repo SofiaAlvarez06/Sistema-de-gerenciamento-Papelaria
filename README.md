@@ -47,10 +47,10 @@ Abaixo está a tela principal do sistema de papelaria:
 ![Seleção Papelaria](seleçãopapelaria.png)
 
 ### Soma de todo o estoque da papelaria
-![Soma Papelaria](papelaria soma.png)
+![Soma Papelaria](papelariasoma.png)
 
 ### Edição dos produtos
-![Edição](imagem edição.png)
+![Edição](imagemedição.png)
 
 ## 🚀 Como executar o projeto
 1. Abrir o projeto no Eclipse
